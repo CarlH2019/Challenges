@@ -4,3 +4,6 @@ Most of these challenges are from CodeWars where they really hammer home on algo
 
 ![](Images/Algorithm%20success.PNG)
 
+
+Challenges completed by Carl Hofstrom hofstromcarl@gmail.com
+
