@@ -40,3 +40,5 @@ puts find_missing_number("1 2 4 3") #0
 puts find_missing_number("2 1 3 a") #1
 puts find_missing_number("1 3 2 5") #4
 puts find_missing_number("1 5") #2
+
+
